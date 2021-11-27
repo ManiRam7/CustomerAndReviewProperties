@@ -1,0 +1,2 @@
+# CustomerAndReviewProperties
+Property Files
